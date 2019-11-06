@@ -10,6 +10,6 @@
 1. 개별적으로 세금신고하기 때문에 세금면제
 1. 법인 1000원까지는 감면처리
 
-## REPERENCE
+## REFERENCE
 1. P2P 가이드라인 [https://www.fsc.go.kr/info/ntc_news_view.jsp?menu=7210100&bbsid=BBS0030&no=31512](https://www.fsc.go.kr/info/ntc_news_view.jsp?menu=7210100&bbsid=BBS0030&no=31512)
 1. 투자한도 개선 [https://www.fsc.go.kr/info/ntc_news_view.jsp?menu=7210100&bbsid=BBS0030&no=32330](https://www.fsc.go.kr/info/ntc_news_view.jsp?menu=7210100&bbsid=BBS0030&no=32330)
